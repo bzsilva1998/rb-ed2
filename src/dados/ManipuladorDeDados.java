@@ -89,7 +89,7 @@ public class ManipuladorDeDados {
 			}
 			
 			else if (id==2) {
-				nomeArq="mediasGetting.txt";
+				nomeArq="mediasRemove.txt";
 			}
 			
 		}
